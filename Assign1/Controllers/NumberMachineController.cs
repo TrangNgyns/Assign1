@@ -11,7 +11,6 @@ namespace Assign1.Controllers
     {
         /// <summary>
         /// Receives a number, returns that number multiplied by 3 then plus 5 and divided by 2. Finally extract the original number from that. Returns a whole number.
-        /// </summary>
         /// <example>
         // Get api/NumberMachine/10 -> 42
         // Get api/NumberMachine/-5 -> -17
