@@ -19,6 +19,7 @@ namespace Assign1.Controllers
         /// <example>
         // Get api/Squared/2 -> 4
         // Get api/Squared/-2 -> 4
+        // Get api/Squared/10 -> 100
         /// </example>
 
         [HttpGet]

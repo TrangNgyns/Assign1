@@ -30,6 +30,7 @@ namespace Assign1.Controllers
         /// <example>
         // Get api/Greeting/3 -> "Greetings to 3 people!"
         // Get api/Greeting/6 -> "Greetings to 6 people!"
+        // Get api/Greeting/0 -> "Greetings to 0 people!"
         /// </example>
 
         [HttpGet]
